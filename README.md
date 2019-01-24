@@ -1,2 +1,2 @@
 # AndOr
-Public repository for the AndOr programming competition.
+Welcome to the Andor Assembly Language Programming Contest!
